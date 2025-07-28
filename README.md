@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9ghtx" alt="9ghtx" /></a> </p>
 
-- 🔭 I’m currently working on [RP Mentor](https://github.com/9ghtX/Mentor)
+- 🔭 I’m currently working on private job project
 
 - 🌱 I’m currently learning **ASP.NET, SQL**
 
-- 🤝 I’m looking for help with **RP Mentor**
+- 🤝 I’m looking for help with **nothing**
 
-- 💬 Ask me about **C# (WPF), Python (Pandas, OpenCV), Git**
+- 💬 Ask me about **C# (ASP.NET), Git**
 
 - 📫 How to reach me **sevav2002@bk.ru**
 
